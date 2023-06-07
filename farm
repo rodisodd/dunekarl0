@@ -23,11 +23,11 @@ Settings = {
     },
 	["Multipliers"] = {
 		["Giant Chest"] = 0,
-        ["Chest"] = 0,
-        ["Small Chest"] = 0,
-        ["Vault"] = 0,
-        ["Safe"] = 0,
-        ["Present"] = 0
+        ["Chest"] = 3,
+        ["Small Chest"] = 3,
+        ["Vault"] = 3,
+        ["Safe"] = 3,
+        ["Present"] = 3
 	},
     ["Webhooks"] = {
         ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1115970571667255316/5cpSEj6Degk_Wt7iDq4ACfLYZojZSXAvZ1sLKL5OC7Ph1FcRcdhij7UqiSTAvoyyiYT8",
